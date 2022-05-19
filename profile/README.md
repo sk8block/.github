@@ -2,4 +2,9 @@
 
 # Welcome to the SK8Block GitHub Organization
 
-You can find all our projects, open source creations, and sources.
+You can find all our projects, open source creations, and more.
+
+## Links
+
+Website (Coming Soon): https://sk8block.com
+Discord (Coming Soon): #
