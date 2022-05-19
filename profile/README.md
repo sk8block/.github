@@ -7,4 +7,5 @@ You can find all our projects, open source creations, and more.
 ## Links
 
 Website (Coming Soon): https://sk8block.com
+
 Discord (Coming Soon): #
